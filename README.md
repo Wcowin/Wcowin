@@ -1,9 +1,3 @@
-
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I’m @Wcowin  
-👀 I’m interested in computer   
-🌱 I’m currently learning electronic technology   
-📫 How to reach me 1135801806@qq.com   
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wcowin)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wcowin)](https://github.com/anuraghazra/github-readme-stats)
 
