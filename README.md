@@ -1,4 +1,23 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+  
+  <h1>
+    Hey, I'm Wcowin!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  </div>
+ 
+
+     
+## About me
+  * Bilibili电子信息工程专业本科在读  :star2:
+  * CMC一等奖获得者
+  * 热爱(xiā)折腾技术 :computer: 
+  * 喜欢村上春树📖，擅长羽毛球 :badminton:
+  * [找到我](https://github.com/Wcowin) &#x1F4A1;→[GitHub](https://github.com/Wcowin)
+    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wcowin)](https://github.com/anuraghazra/github-readme-stats)  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wcowin)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
@@ -20,4 +39,6 @@
 Wcowin/Wcowin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<div align=center> 
+         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=My+hobby:+;I+Love+coffee;I+Love+books;I+Love+Program" alt="Headline;" /> 
+     </div> 
