@@ -14,7 +14,7 @@
   * CMC First Prize winner
   * Love to toss technology :computer: 
   * Like Haruki Murakami📖，good at badminton  :badminton:
-  * [Find me](https://github.com/Wcowin) &#x1F4A1;→[GitHub](https://github.com/Wcowin)
+  * [Find me](https://github.com/Wcowin) &#x1F4A1;→ [Email](mailto:<1135801806@qq.com>)
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wcowin)](https://github.com/anuraghazra/github-readme-stats)  
 
