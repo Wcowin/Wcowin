@@ -9,8 +9,7 @@
  
 
 ## About me
-  * Bilibili is an undergraduate majoring in Electronic Information Engineering at 
-  * CMC First Prize winner :star2:
+  * A student
   * Love to toss technology :computer: 
   * Like Haruki Murakami📖，good at badminton  :badminton:
   * [Find me](https://github.com/Wcowin) &#x1F4A1;→ [Email](mailto:<1135801806@qq.com>)
