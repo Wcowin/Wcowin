@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+  <img src="https://cn.mcecy.com/image/20230715/caafe40450cd085f41a4c7628ec464d1.jpeg" width="300"/>
   
   <h1>
     Hey, I'm Wcowin!
@@ -12,8 +12,9 @@
   * A student
   * Love to toss technology :computer: 
   * Like Haruki Murakami📖，good at badminton  :badminton:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wcowin)](https://github.com/anuraghazra/github-readme-stats)  
+  
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wcowin)](https://github.com/anuraghazra/github-readme-stats) -->  
+[![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=Wcowin&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my)](#)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wcowin)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -39,7 +40,7 @@
 - -->
 
 ## Support me
-<!-- <p><a href="https://ko-fi.com/Wcowin"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Wcowin" /></a></p><br><br> -->
+
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U5HAO6B)
 <!---
