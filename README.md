@@ -6,7 +6,20 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   </div>
- 
+
+ <table>
+    <tr>
+        <td >
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wcowin&theme=vue" ></center>
+        </td>
+        <td >
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Wcowin&theme=github&utcOffset=8" align="right" /></center>
+        </td>
+        <td >
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wcowin&theme=vue" align="right" /></center>
+        </td>
+    </tr>
+</table>
 
 ## About me
   * A student :student:
@@ -35,3 +48,4 @@
 <div align=center> 
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=My+hobby:+;I+Love+coffee;I+Love+books;I+Love+Program" alt="Headline;" /> 
      </div> 
+     
