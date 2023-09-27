@@ -49,3 +49,4 @@
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=My+hobby:+;I+Love+coffee;I+Love+books;I+Love+Program" alt="Headline;" /> 
      </div> 
      
+![Wcowin's github activity graph](https://raw.githubusercontent.com/Wcowin/Wcowin/output/github-contribution-grid-snake.svg)
