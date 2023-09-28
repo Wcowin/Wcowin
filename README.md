@@ -7,19 +7,7 @@
   </h1>
   </div>
 
- <table>
-    <tr>
-        <td >
-            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wcowin&theme=vue" ></center>
-        </td>
-        <td >
-            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Wcowin&theme=github&utcOffset=8" align="right" /></center>
-        </td>
-        <td >
-            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wcowin&theme=vue" align="right" /></center>
-        </td>
-    </tr>
-</table>
+
 
 ## About me
   * A student :student:
@@ -27,10 +15,10 @@
   * Like Haruki Murakami:book:
   * Good at badminton  :badminton: 
   
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wcowin)](https://github.com/anuraghazra/github-readme-stats) -->  
-[![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=Wcowin&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my)](#)  
+ <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wcowin)](https://github.com/anuraghazra/github-readme-stats)  
+[![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=Wcowin&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my)](#)  -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wcowin)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wcowin)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 ## Connect with me
@@ -48,5 +36,19 @@
 <div align=center> 
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=My+hobby:+;I+Love+coffee;I+Love+books;I+Love+Program" alt="Headline;" /> 
      </div> 
-     
+
+ <table>
+    <tr>
+        <td >
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wcowin&theme=vue" ></center>
+        </td>
+        <td >
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Wcowin&theme=github&utcOffset=8" align="right" /></center>
+        </td>
+        <td >
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wcowin&theme=vue" align="right" /></center>
+        </td>
+    </tr>
+</table>
+
 ![Wcowin's github activity graph](https://raw.githubusercontent.com/Wcowin/Wcowin/output/github-contribution-grid-snake.svg)
