@@ -35,9 +35,6 @@
   <a href="https://twitter.com/wcowin_" target="_blank">
     <img src="https://cn.mcecy.com/image/20231006/bf81886879255799f477a8989d314833.png" style="border-radius: 10px; width: 25%;">
   </a>
-  <a href="https://www.instagram.com/wcowin_/" target="_blank">
-    <img src="https://cn.mcecy.com/image/20231006/892950af21d09c98d403ebc378a21899.png" style="border-radius: 10px; width: 25%;">
-  </a>
   <a href="https://github.com/wcowin" target="_blank">
     <img src="https://cn.mcecy.com/image/20231006/6cc108417b5f9ab5ae53c2376d6036d8.png" style="border-radius: 25px;width: 25%;">
   </a>
