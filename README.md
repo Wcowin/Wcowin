@@ -31,14 +31,11 @@
 </p>
 -->
 
-<div>
-  <a href="https://twitter.com/wcowin_" target="_blank">
-    <img src="https://cn.mcecy.com/image/20231006/bf81886879255799f477a8989d314833.png" style="border-radius: 10px; width: 25%;">
-  </a>
-  <a href="https://github.com/wcowin" target="_blank">
-    <img src="https://cn.mcecy.com/image/20231006/6cc108417b5f9ab5ae53c2376d6036d8.png" style="border-radius: 25px;width: 25%;">
-  </a>
-</div>
+<p align="left">
+&nbsp; <a href="https://twitter.com/Wcowin_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/wcowin_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="mailto:wangkewen821@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
 
 ## Support me
  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U5HAO6B)
