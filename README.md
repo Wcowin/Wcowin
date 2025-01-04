@@ -11,7 +11,7 @@
   * A student :student:
   * Heavy coffee drinker ☕
   * Love tossing technology/Math 💻
-  * Read books;lover of poetry,;like Haruki Murakami 📖
+  * Read books;lover of poetry;like Haruki Murakami 📖
   * good at badminton :badminton:
   
  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wcowin)](https://github.com/anuraghazra/github-readme-stats)  
