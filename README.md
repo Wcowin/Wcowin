@@ -21,7 +21,7 @@
 
 
 ## 🚀 Currently Learning & Working On
-
+- 👨🏻‍💻 Try to be an independent developer —— [OneClip](https://oneclip.cloud/)
 - 🤔 Exploring new frameworks and open source ideas
 - 🛠️ Building personal website/blog with Mkdocs
 - 💡 Deeply study the interdisciplinary field of mathematics and programming
