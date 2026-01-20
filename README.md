@@ -16,15 +16,15 @@
 
 * A student :student:
 * Heavy coffee drinker ☕
-* Love tossing technology/Math 💻
+* Love tossing technology/Math ⌨️
 * Read books;lover of poetry;like Haruki Murakami 📖
 * good at badminton :badminton:
 
 
 ## 🚀 Currently Learning & Working On
-- 👨🏻‍💻 Try to be an independent developer 
+- 💻 Try to be an independent developer 
 - 🤔 Exploring new frameworks and open source ideas
-- 🛠️ Building personal website/blog with Mkdocs
+- 🛠️ Building personal website/blog with Zensical
 - 💡 Deeply study the interdisciplinary field of mathematics and programming
 
 ## 📫 Connect with Me
