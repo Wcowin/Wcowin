@@ -22,9 +22,9 @@
 
 
 ## 🚀 Currently Learning & Working On
-- 💻 Try to be an independent developer 
+- 💻 Try to be an independent developer,I use Swift to develop applications
 - 🤔 Exploring new frameworks and open source ideas
-- 🛠️ Building personal website/blog with Zensical
+- 🛠️ Building personal website/blog with [Zensical]
 - 💡 Deeply study the interdisciplinary field of mathematics and programming
 
 ## 📫 Connect with Me
@@ -56,12 +56,12 @@
 &nbsp; <a href="https://www.instagram.com/wcowin_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="mailto:wangkewen821@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
--->
+
 
 ## ☕ Support Me
 
 <a href='https://ko-fi.com/U6U5HAO6B' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
+-->
 
 <div align=center> 
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=My+hobby:+;I+Love+coffee;I+Love+books;I+Love+Program" alt="Headline;" /> 
