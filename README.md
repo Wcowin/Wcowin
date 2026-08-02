@@ -17,13 +17,13 @@
 * Heavy coffee drinker ☕
 * Love tossing technology/Math ⌨️
 * Read books;lover of poetry;like Haruki Murakami 📖
-* good at badminton :badminton:
+* Good at badminton :badminton:
 
 
 ## 🚀 Currently Learning & Working On
-- 💻 Try to be an independent developer,I use Swift to develop applications
+- 💻 Independent developer,I use Swift to develop applications
 - 🤔 Exploring new frameworks and open source ideas
-- 🛠️ Building [personal website/blog](https://wcowin.work/) with [Zensical](https://zensical.org/)
+- 🛠️ Building [personal blog](https://wcowin.work/) with [Zensical](https://zensical.org/)
 - 💡 Deeply study the interdisciplinary field of mathematics and AI
 
 ## 📫 Connect with Me
