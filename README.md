@@ -28,11 +28,8 @@
 
 ## 📫 Connect with Me
 
-<p>
-  <a href="https://twitter.com/Wcowin_" target="_blank"><img src="https://pic3.zhimg.com/80/v2-aa11d437a377f1a0deac132eb800b306_1440w.webp" width="50" /></a>
-  <a href="https://t.me/Wcowin" target="_blank"><img src="https://pica.zhimg.com/v2-61b4731957dba61e9960436dbd06306a_1440w.jpg" width="50" /></a>
-  <a href="mailto:wangkewen821@gmail.com" target="_blank"><img src="https://pic4.zhimg.com/v2-e996df5a7696237b6f924ace7044cd97_1440w.jpg" width="50" /></a>
-</p>
+Gmail：wangkewen821@gmail.com
+Wechat：Wcowin_
 
   
  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wcowin)](https://github.com/anuraghazra/github-readme-stats)  
